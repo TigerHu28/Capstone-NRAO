@@ -1,6 +1,6 @@
 2020.8 - 2021.6
 
-# Capstone Project: Detecting Irregular Dust Emmisions from Protostars
+# Capstone Project: Detecting Irregular Dust Emissions from Protostars
 
 Team member: Shannon Paylor (sep4hy@virginia.edu), Pengwei 'Tiger' Hu (ph3bz@virginia.edu), John Zhang (jz5jx@virginia.edu), Pavan Bondalapati (pb7ak@virginia.edu)
 
